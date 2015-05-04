@@ -1,2 +1,2 @@
 # simple-chat
-simple chat meteor app
+a simple chat meteor app with presence streams
